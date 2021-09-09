@@ -2,9 +2,7 @@
 
 ## Overview and Origin
 
-![image](/Users/xbook/desktop/bootcamp/fintech/miami-homework/homework1/rl.png)
-
-![image](/Users/xbook/Desktop/Logo.jpg)
+![Ripple](/Users/xbook/desktop/bootcamp/fintech/miami-homework/homework1/rl.png)
 
 * Ripple
 
@@ -27,13 +25,14 @@
 * Ripple operates on an open-source coding platform. Ripples use C++ coding language to implement its SHAMap blockchain technology. To manage, organize and capitalize from data collected, Ripple is currently implementing the Data Build Tool.
 
 ## Landscape:
+
 * Ripple operates in the cryptocurrency/blockchain domain.
 
 * Cryptocurrency first emerged in 2009 with the introduction of Bitcoin. The most significant stride in this market over the years has been change in the “black market” stigma attached to cryptocurrency. Crypto is now accepted by thousands of merchants worldwide. Cryptocurrency in now being used to solve cross-border and cross-currency exchange problems. Other major strides in this domain have been how the United States government views the status and usage of categorization of cryptocurrencies.
 
 * Bitcoin and Ethereum are the two largest companies in this domain. Other serious market competitors are Dogecoin, Binance Coin, and Cardano.
 
-## Results
+## Results:
 
 * Ripple has ongoing legal battles with the Securities Exchange Commission. Ripple’s fight to change how cryptocurrencies are categorized and used could change the entire landscape of the crypto community.
 
@@ -41,7 +40,7 @@
 
 * Ripple is the 5th largest cryptocurrency network in this domain based on market share and valuation of currency.
 
-## Recommendations
+## Recommendations:
 
 * I would recommend that Ripple continues and widens its working within the gaming industry. Ripple has been doing work with the gaming company to implement blockchain technologies into their games. Together Ripple and Forte plan to deepen the gaming experience and offer different ways to interact in gaming economics. I do advise that once the blockchain foundation is set Ripple allows the gaming currency earned on the Forte platform  to be exchange as XRP bucks on Ripple’s trading platform.
 
