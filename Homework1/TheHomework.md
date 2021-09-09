@@ -2,7 +2,9 @@
 
 ## Overview and Origin
 
-![image](/Users/xbook/Desktop/Bootcamp/FinTech/Miami-Homework/Homework1/rip.png)
+![image](/Users/xbook/desktop/bootcamp/fintech/miami-homework/homework1/rl.png)
+
+![image](/Users/xbook/Desktop/Logo.jpg)
 
 * Ripple
 
