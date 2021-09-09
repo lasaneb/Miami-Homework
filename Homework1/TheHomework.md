@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-![Ripple](/Users/xbook/Desktop/Bootcamp/FinTech/Miami-Homework/Homework1/rip.png)
+![image](/Users/xbook/Desktop/Bootcamp/FinTech/Miami-Homework/Homework1/rip.png)
 
 * Ripple
 
