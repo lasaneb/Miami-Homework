@@ -2,8 +2,6 @@
 
 ## Overview and Origin
 
-![Ripple](/Users/xbook/desktop/bootcamp/fintech/miami-homework/homework1/rl.png)
-
 * Ripple
 
 * Ripple was incorporated in 2012.
