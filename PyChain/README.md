@@ -86,12 +86,15 @@ Test your complete `PyChain` ledger and user interface by running your Streamlit
 3. Enter values for the sender, receiver, and amount, and then click the Add Block button. Do this several times to store several blocks in the ledger.
 
 4. Verify the block contents and hashes in the Streamlit dropdown menu. Take a screenshot of the Streamlit application page, which should detail a blockchain that consists of multiple blocks. Include the screenshot in the `README.md` file for your GitHub repository.
-![alt=""](/Users/xbook/Desktop/Bootcamp/FinTech/Miami-Homework/PyChain/add_block_test)
+
+![alt=""](/Users/xbook/Desktop/Bootcamp/FinTech/Miami-Homework/PyChain/add_block_test.png)
 
 
 5. Test the blockchain validation process by using the web interface. Take a screenshot of the Streamlit application page, which should indicate the validity of the blockchain. Include the screenshot in the `README.md` file for your homework repository.
-![alt=""](/Users/xbook/Desktop/Bootcamp/FinTech/Miami-Homework/PyChain/validation_test)
-![alt=""](/Users/xbook/Desktop/Bootcamp/FinTech/Miami-Homework/PyChain/terminal screenshoot)
+
+![alt=""](/Users/xbook/Desktop/Bootcamp/FinTech/Miami-Homework/PyChain/validation_test.png)
+
+![alt=""](/Users/xbook/Desktop/Bootcamp/FinTech/Miami-Homework/PyChain/terminal screenshoot.png)
 ---
 ## Submission
 
