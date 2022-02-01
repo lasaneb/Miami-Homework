@@ -106,13 +106,13 @@ Now it's time to put it all together and test the Fintech Finder application wit
 
     * Take a screenshot of the transaction details on Ganache. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
     
-    ![GanacheTransaction.](/Users/xbook/Desktop/Bootcamp/FinTech/Miami-Homework/Blockchain-Wallets/Instructions/Starter-Code/Images/Screen Shot 2022-01-31 at 9.37.41 PM.png)
+    ![GanacheTransaction.](https://user-images.githubusercontent.com/89284547/151910554-09d9003a-cf8c-43ae-84fd-e7dcb2641eef.png)
 
 5. Return to the original transaction, and click the transaction’s To address.
 
 * Take a screenshot of the recipient’s address balance and history from your Ganache application. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
 
-    ![JoBalance].](https://raw.githubusercontent.com/lasaneb/Miami-Homework/Blockchain-Wallets/Instructions/Starter-Code/Images/jobalance.png)
+    ![JoBalance].](lasaneb/Miami-Homework/Blockchain-Wallets/Instructions/Starter-Code/Images/jobalance.png)
 
 ## Submission
 
