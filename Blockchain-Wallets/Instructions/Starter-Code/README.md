@@ -112,7 +112,7 @@ Now it's time to put it all together and test the Fintech Finder application wit
 
 * Take a screenshot of the recipient’s address balance and history from your Ganache application. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
 
-    ![JoBalance].](https://user-images.githubusercontent.com/89284547/151910355-84d9d578-bf89-4d6b-8963-0fc7047a6e84.png)
+    ![JoBalance].](https://user-images.githubusercontent.com/89284547/151911685-8c59df4d-10e1-4b6e-935c-a4fad6462b02.png)
 
 ## Submission
 
